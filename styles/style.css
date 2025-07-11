@@ -228,3 +228,50 @@ nav{
     border-radius:10px;
      margin-bottom: 20px;
 }
+/* touch-section style */
+.touch-section{
+    width:70%;
+    padding:70px 0px 70px 0px;
+    display: flex;
+    align-items: center;
+    gap:auto;
+    margin-bottom:116px;
+}
+.section-title{
+    font-size:100px;
+    font-weight:bold;
+    color: #000000;
+    max-width:528px;
+    margin-left:0px;
+}
+.touch-form{
+    max-width:497px;
+    margin-right:0px;
+}
+.touch-form label{
+    font-size:18px;
+    font-weight:Medium;
+    color: #000000;
+    display: block;
+    margin-bottom: 20px;
+}
+.touch-form input,textarea{
+    font-size:20px;
+    font-weight:regular;
+    color:rgba(0, 0, 0, 0.5);
+    padding:20px 32px;
+    border:1px solid #D6DDED;
+    border-radius:10px;
+    margin-bottom: 20px;
+}
+.touch-form input[type="submit"]{
+    font-size:16px;
+    font-weight:Medium;
+    color:#FFFFFF;
+    background-color:#4E47FF;
+    padding:19px 146px;
+    border:none;
+    border-radius:10px;
+    display: block;
+    margin-left:0px;
+}
