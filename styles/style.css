@@ -181,10 +181,10 @@ nav{
 }
 .reviewer-data{
    display:flex;
-   justify-content:left;
    align-items: center;
-   gap:5px;
    margin-top:20px;
+   width:200px;
+   margin-left:0px;
 }
 .review-container{
     display: flex;
