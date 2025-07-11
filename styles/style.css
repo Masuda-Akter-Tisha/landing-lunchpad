@@ -132,3 +132,63 @@ nav{
     font-weight:regular;
     color: rgba(0, 0, 0, 0.5);
 }
+/* users-feedback-container */
+.users-feedback{
+    width:72%;
+    margin-bottom:116px;
+}
+.feedback-title{
+    font-size:42px;
+    font-weight:bold;
+    color:#252432;
+    text-align:center;
+    margin-bottom:50px;
+}
+.review-tittle{
+    font-size:24px;
+    font-weight:SemiBold;
+    color:#1E1E1E;
+}
+.review-sub-title{
+    font-size:16px;
+    font-weight:regular;
+    color:#1E1E1E;
+    margin-top:10px;
+}
+.review-name{
+    font-size:16px;
+    font-weight:regular;
+    color:#757575;
+}
+.review-date{
+    font-size:16px;
+    font-weight:regular;
+    color:#B3B3B3; 
+}
+.reviewer-img img{
+    border:none;
+    border-radius:50px;
+}
+.image img{
+    margin-bottom:20px;
+}
+.review-info-card{
+    width:360px;
+    border:1px solid #F2EDED;
+    padding:24px;
+    border-radius:14px;
+    background-color:rgba(255, 255, 255, 0.5);
+}
+.reviewer-data{
+   display:flex;
+   justify-content:left;
+   align-items: center;
+   gap:5px;
+   margin-top:20px;
+}
+.review-container{
+    display: flex;
+    gap:24px;
+}
+
+
